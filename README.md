@@ -23,3 +23,14 @@ This is application is an online hotel/pg/flat booking service provider that can
 5. As a owner we can provide facilities. 
 # Technologies
 Technologies to be used Tools Spring Boot Angular PostgresSQL Tools Spring Tool Suite Visual Studio Code DBeaver
+# Roles / Responsibilities 
+1. Worked on Spring Tool Suite and Visual Studio Code.
+2. Utilized GitHub to manage the source code.
+3. Developed Web pages using Angular 10.
+4. Worked on Spring Data JPA  for SQL operations.
+5. Leveraged server side technologies such as Java, Rest, Spring Boot and Spring Data to handle requests and responses.
+6. Utilized DevOps and Jenkins for publish the project in the server.
+7. Used Jasmine And Karma for testing the service layer for front-end technologies.
+8. Used JUnit for testing the business layer as well as other functionalities.
+9. Deployed AWS S3 bucket  and AWS EC2 to have a fully functioning remote application.
+10. Used Monolithic Service for implementing the code.
