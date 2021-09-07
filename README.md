@@ -8,14 +8,18 @@ This is application is an online hotel/pg/flat booking service provider that can
 5. Server Side development is done using Spring Boot. 
 6. A minimum of 10 JUnit test is written to test some functionality. 
 7. Front end testing is done using Karma and Jasmine.
-User Stories ----------------------- 
-**Customer As a customer, we can register.
-As a customer, we can login.
-As a customer, we can look for a room (filters ->location, charge, size, rating, type).
-As a customer, we can book the room . As a customer, we can check in/check out.
-As a customer, we can give feedback. **Owner As a owner we can register.
-As a owner we can login. As a owner we can update details.
-As owner we can view customer history related to our room.
-As a owner we can approve room on the basis of availability.
-As a owner we can provide facilities. 
+## User Stories
+### Customer
+1. As a customer, we can register.
+2. As a customer, we can login.
+3. As a customer, we can look for a room (filters ->location, charge, size, rating, type).
+4. As a customer, we can book the room . As a customer, we can check in/check out.
+5. As a customer, we can give feedback. 
+### Owner
+1. As a owner we can register.
+2. As a owner we can login. As a owner we can update details.
+3. As owner we can view customer history related to our room.
+4. As a owner we can approve room on the basis of availability.
+5. As a owner we can provide facilities. 
+# Technologies
 Technologies to be used Tools Spring Boot Angular PostgresSQL Tools Spring Tool Suite Visual Studio Code DBeaver
